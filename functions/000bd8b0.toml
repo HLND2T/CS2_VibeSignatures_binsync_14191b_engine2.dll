@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026959Z
+addr = 0xbd8b0
+size = 0x341
+name = "CServerSideClient_ExecuteStringCommand"
+type = "long long"
+
+[header]
+name = "CServerSideClient_ExecuteStringCommand"
+addr = 0xbd8b0
+type = "long long"
+
+[header.args]

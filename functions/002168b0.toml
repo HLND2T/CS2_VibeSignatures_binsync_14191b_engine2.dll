@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.471611Z
+addr = 0x2168b0
+size = 0x31b
+name = "CGameEventSystem_PostEventAbstract2"
+type = "long long"
+
+[header]
+name = "CGameEventSystem_PostEventAbstract2"
+addr = 0x2168b0
+type = "long long"
+
+[header.args]

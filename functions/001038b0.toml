@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.624722Z
+addr = 0x1038b0
+size = 0x2f6
+name = "SetInfo_CommandHandler"
+type = "char"
+
+[header]
+name = "SetInfo_CommandHandler"
+addr = 0x1038b0
+type = "char"
+
+[header.args]

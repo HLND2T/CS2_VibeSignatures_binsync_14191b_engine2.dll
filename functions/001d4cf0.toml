@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027137Z
+addr = 0x1d4cf0
+size = 0x20b
+name = "CNetworkClientService_OnClientFrameSimulate"
+type = "long long"
+
+[header]
+name = "CNetworkClientService_OnClientFrameSimulate"
+addr = 0x1d4cf0
+type = "long long"
+
+[header.args]

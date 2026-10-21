@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026932Z
+addr = 0xb5110
+size = 0x72
+name = "CNetworkGameServerBase_ServerProcessNetworking"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_ServerProcessNetworking"
+addr = 0xb5110
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027285Z
+addr = 0x21b3b0
+size = 0x162
+name = "CHostStateMgr_RequestHS_ChangelevelReconnect"
+type = "long long"
+
+[header]
+name = "CHostStateMgr_RequestHS_ChangelevelReconnect"
+addr = 0x21b3b0
+type = "long long"
+
+[header.args]

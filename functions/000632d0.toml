@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:11.440806Z
+addr = 0x632d0
+size = 0x744
+name = "CNetworkGameClient_SendMovePacket"
+type = "char"
+
+[header]
+name = "CNetworkGameClient_SendMovePacket"
+addr = 0x632d0
+type = "char"
+
+[header.args]

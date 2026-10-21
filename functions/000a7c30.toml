@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026882Z
+addr = 0xa7c30
+size = 0x305
+name = "CNetworkGameServerBase_AsyncUnloadSpawnGroupInternal"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_AsyncUnloadSpawnGroupInternal"
+addr = 0xa7c30
+type = "void"
+
+[header.args]

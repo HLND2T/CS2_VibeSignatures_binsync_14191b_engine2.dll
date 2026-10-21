@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027264Z
+addr = 0x216460
+size = 0x7e
+name = "CGameEventSystem_PostEventAbstract_Local"
+type = "_OWORD *"
+
+[header]
+name = "CGameEventSystem_PostEventAbstract_Local"
+addr = 0x216460
+type = "_OWORD *"
+
+[header.args]

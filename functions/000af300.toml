@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026903Z
+addr = 0xaf300
+size = 0x23f
+name = "CNetworkGameServerBase_CreateFakeClient"
+type = "unsigned int *"
+
+[header]
+name = "CNetworkGameServerBase_CreateFakeClient"
+addr = 0xaf300
+type = "unsigned int *"
+
+[header.args]

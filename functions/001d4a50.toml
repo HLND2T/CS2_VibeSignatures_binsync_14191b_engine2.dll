@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027134Z
+addr = 0x1d4a50
+size = 0x19
+name = "CNetworkClientService_OnClientPauseSimulate"
+type = "long long"
+
+[header]
+name = "CNetworkClientService_OnClientPauseSimulate"
+addr = 0x1d4a50
+type = "long long"
+
+[header.args]

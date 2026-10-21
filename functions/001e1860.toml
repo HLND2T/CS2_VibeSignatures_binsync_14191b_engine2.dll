@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.220772Z
+addr = 0x1e1860
+size = 0x7a
+name = "CNetworkServerService_OnLoopActivate"
+type = "void"
+
+[header]
+name = "CNetworkServerService_OnLoopActivate"
+addr = 0x1e1860
+type = "void"
+
+[header.args]

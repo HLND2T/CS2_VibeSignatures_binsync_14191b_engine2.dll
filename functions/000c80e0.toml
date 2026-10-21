@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027018Z
+addr = 0xc80e0
+size = 0x20c
+name = "CServerSideClientBase_ProcessSetConVar_Internal"
+type = "void"
+
+[header]
+name = "CServerSideClientBase_ProcessSetConVar_Internal"
+addr = 0xc80e0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.638226Z
+addr = 0x1099f0
+size = 0x967
+name = "CNetworkStringTableClient_ParseUpdate"
+type = "char"
+
+[header]
+name = "CNetworkStringTableClient_ParseUpdate"
+addr = 0x1099f0
+type = "char"
+
+[header.args]

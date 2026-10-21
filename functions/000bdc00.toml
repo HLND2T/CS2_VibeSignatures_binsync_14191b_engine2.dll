@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.321906Z
+addr = 0xbdc00
+size = 0x482
+name = "CServerSideClientBase_SendSnapshot"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_SendSnapshot"
+addr = 0xbdc00
+type = "long long"
+
+[header.args]

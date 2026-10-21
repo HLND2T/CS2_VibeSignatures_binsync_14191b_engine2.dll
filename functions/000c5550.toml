@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027007Z
+addr = 0xc5550
+size = 0x188
+name = "CServerSideClientBase_Disconnect"
+type = "void"
+
+[header]
+name = "CServerSideClientBase_Disconnect"
+addr = 0xc5550
+type = "void"
+
+[header.args]

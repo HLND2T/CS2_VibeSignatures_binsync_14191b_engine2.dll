@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027162Z
+addr = 0x1d7250
+size = 0x1a
+name = "CNetworkClientService_SendStringCmd"
+type = "void"
+
+[header]
+name = "CNetworkClientService_SendStringCmd"
+addr = 0x1d7250
+type = "void"
+
+[header.args]

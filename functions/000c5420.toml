@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027006Z
+addr = 0xc5420
+size = 0x12c
+name = "CServerSideClientBase_PerformDisconnection"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_PerformDisconnection"
+addr = 0xc5420
+type = "long long"
+
+[header.args]

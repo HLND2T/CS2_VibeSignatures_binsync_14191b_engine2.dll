@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026642Z
+addr = 0x370d0
+size = 0x16e
+name = "Demo_PauseAtServerTick_CommandHandler"
+type = "double"
+
+[header]
+name = "Demo_PauseAtServerTick_CommandHandler"
+addr = 0x370d0
+type = "double"
+
+[header.args]

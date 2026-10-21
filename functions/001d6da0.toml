@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027153Z
+addr = 0x1d6da0
+size = 0x1b1
+name = "CNetworkClientService_PrintSpawnGroupStatus"
+type = "double"
+
+[header]
+name = "CNetworkClientService_PrintSpawnGroupStatus"
+addr = 0x1d6da0
+type = "double"
+
+[header.args]

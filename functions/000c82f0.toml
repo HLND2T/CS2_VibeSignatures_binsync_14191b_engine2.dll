@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027020Z
+addr = 0xc82f0
+size = 0x22
+name = "CServerSideClientBase_ProcessSetConVar"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_ProcessSetConVar"
+addr = 0xc82f0
+type = "char"
+
+[header.args]

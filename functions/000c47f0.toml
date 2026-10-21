@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026999Z
+addr = 0xc47f0
+size = 0x202
+name = "CServerSideClientBase_ActivatePlayer"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_ActivatePlayer"
+addr = 0xc47f0
+type = "long long"
+
+[header.args]

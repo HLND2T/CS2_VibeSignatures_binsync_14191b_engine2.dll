@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027122Z
+addr = 0x1d4330
+size = 0x176
+name = "CNetworkClientService_AllocateRemoteConnectionClient"
+type = "void"
+
+[header]
+name = "CNetworkClientService_AllocateRemoteConnectionClient"
+addr = 0x1d4330
+type = "void"
+
+[header.args]

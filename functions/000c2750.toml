@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026968Z
+addr = 0xc2750
+size = 0x9b
+name = "CServerSideClientBase_SetRate"
+type = "void"
+
+[header]
+name = "CServerSideClientBase_SetRate"
+addr = 0xc2750
+type = "void"
+
+[header.args]

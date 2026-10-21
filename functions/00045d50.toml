@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:11.317243Z
+addr = 0x45d50
+size = 0x16b
+name = "CNetworkGameClient_OnPreserveEntity"
+type = "long long"
+
+[header]
+name = "CNetworkGameClient_OnPreserveEntity"
+addr = 0x45d50
+type = "long long"
+
+[header.args]

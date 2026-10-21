@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026749Z
+addr = 0x6d390
+size = 0x19a
+name = "CNetworkGameClient_PrintNetStats"
+type = "void"
+
+[header]
+name = "CNetworkGameClient_PrintNetStats"
+addr = 0x6d390
+type = "void"
+
+[header.args]

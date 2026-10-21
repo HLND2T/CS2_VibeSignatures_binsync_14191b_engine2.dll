@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026951Z
+addr = 0xbb5b0
+size = 0x55
+name = "CServerSideClient_ProcessVoiceData"
+type = "char"
+
+[header]
+name = "CServerSideClient_ProcessVoiceData"
+addr = 0xbb5b0
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026994Z
+addr = 0xc3f40
+size = 0x21f
+name = "CServerSideClientBase_Reconnect"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_Reconnect"
+addr = 0xc3f40
+type = "char"
+
+[header.args]

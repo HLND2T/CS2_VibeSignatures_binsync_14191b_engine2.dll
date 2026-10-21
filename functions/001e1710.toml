@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027202Z
+addr = 0x1e1710
+size = 0x14e
+name = "CNetworkServerService_OnSimpleLoopFrameUpdate"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_OnSimpleLoopFrameUpdate"
+addr = 0x1e1710
+type = "long long"
+
+[header.args]

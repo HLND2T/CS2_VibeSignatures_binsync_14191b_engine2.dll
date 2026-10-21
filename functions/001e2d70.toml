@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027213Z
+addr = 0x1e2d70
+size = 0x78
+name = "CNetworkServerService_SetGameLoadStarted"
+type = "char"
+
+[header]
+name = "CNetworkServerService_SetGameLoadStarted"
+addr = 0x1e2d70
+type = "char"
+
+[header.args]

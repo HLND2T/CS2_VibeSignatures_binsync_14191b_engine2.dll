@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027270Z
+addr = 0x217260
+size = 0x4bc
+name = "CGameEventSystem_ProcessQueuedEvents"
+type = "long long"
+
+[header]
+name = "CGameEventSystem_ProcessQueuedEvents"
+addr = 0x217260
+type = "long long"
+
+[header.args]

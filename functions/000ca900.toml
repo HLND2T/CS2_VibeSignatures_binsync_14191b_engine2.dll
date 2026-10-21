@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027032Z
+addr = 0xca900
+size = 0xd4
+name = "CServerSideClientBase_GetNetworkIDString"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_GetNetworkIDString"
+addr = 0xca900
+type = "long long"
+
+[header.args]

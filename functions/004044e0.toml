@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.731734Z
+addr = 0x4044e0
+size = 0x4c
+name = "ConVarRefAbstract_CallFilterCallback"
+type = "long long"
+
+[header]
+name = "ConVarRefAbstract_CallFilterCallback"
+addr = 0x4044e0
+type = "long long"
+
+[header.args]

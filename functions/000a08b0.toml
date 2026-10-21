@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026841Z
+addr = 0xa08b0
+size = 0x11
+name = "CEngineServer_SynchronizeAndBlockUntilLoaded"
+type = "void"
+
+[header]
+name = "CEngineServer_SynchronizeAndBlockUntilLoaded"
+addr = 0xa08b0
+type = "void"
+
+[header.args]

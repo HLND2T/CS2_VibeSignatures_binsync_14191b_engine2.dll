@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026724Z
+addr = 0x600c0
+size = 0x1a9
+name = "CNetworkGameClient_Clear"
+type = "void"
+
+[header]
+name = "CNetworkGameClient_Clear"
+addr = 0x600c0
+type = "void"
+
+[header.args]

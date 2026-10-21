@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026753Z
+addr = 0x728a0
+size = 0xb4
+name = "CEngineServer_GetSteamUniverse"
+type = "long long"
+
+[header]
+name = "CEngineServer_GetSteamUniverse"
+addr = 0x728a0
+type = "long long"
+
+[header.args]

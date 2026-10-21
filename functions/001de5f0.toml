@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.119203Z
+addr = 0x1de5f0
+size = 0x7d
+name = "CWaitForInitialSpawnGroupsPrerequisite_GetStatus"
+type = "long long"
+
+[header]
+name = "CWaitForInitialSpawnGroupsPrerequisite_GetStatus"
+addr = 0x1de5f0
+type = "long long"
+
+[header.args]

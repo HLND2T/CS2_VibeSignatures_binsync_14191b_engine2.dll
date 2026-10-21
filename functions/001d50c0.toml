@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027142Z
+addr = 0x1d50c0
+size = 0x21
+name = "CNetworkClientService_OnServerBeginAsyncPostTickWork"
+type = "long long"
+
+[header]
+name = "CNetworkClientService_OnServerBeginAsyncPostTickWork"
+addr = 0x1d50c0
+type = "long long"
+
+[header.args]

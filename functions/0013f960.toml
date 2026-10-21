@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027077Z
+addr = 0x13f960
+size = 0x395
+name = "CLoopModeLevelLoad_MaybeSwitchToGameLoop"
+type = "long long"
+
+[header]
+name = "CLoopModeLevelLoad_MaybeSwitchToGameLoop"
+addr = 0x13f960
+type = "long long"
+
+[header.args]

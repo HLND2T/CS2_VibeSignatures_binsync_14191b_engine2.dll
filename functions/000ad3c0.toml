@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026893Z
+addr = 0xad3c0
+size = 0x114
+name = "CNetworkGameServerBase_SetServerState"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_SetServerState"
+addr = 0xad3c0
+type = "void"
+
+[header.args]

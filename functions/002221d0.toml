@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027308Z
+addr = 0x2221d0
+size = 0xe
+name = "CLoopTypeClientServerService_HandleInputEvent"
+type = "long long"
+
+[header]
+name = "CLoopTypeClientServerService_HandleInputEvent"
+addr = 0x2221d0
+type = "long long"
+
+[header.args]

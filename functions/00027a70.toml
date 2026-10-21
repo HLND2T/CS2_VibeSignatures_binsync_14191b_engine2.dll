@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026619Z
+addr = 0x27a70
+size = 0x45a
+name = "CDemoPlayer_StopPlayback"
+type = "void"
+
+[header]
+name = "CDemoPlayer_StopPlayback"
+addr = 0x27a70
+type = "void"
+
+[header.args]

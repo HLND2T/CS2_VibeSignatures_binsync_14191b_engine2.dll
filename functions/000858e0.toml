@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:11.674789Z
+addr = 0x858e0
+size = 0x7a1
+name = "CNetworkGameClientBase_LinkClasses"
+type = "long long"
+
+[header]
+name = "CNetworkGameClientBase_LinkClasses"
+addr = 0x858e0
+type = "long long"
+
+[header.args]

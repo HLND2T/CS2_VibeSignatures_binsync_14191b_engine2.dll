@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.107629Z
+addr = 0xaff70
+size = 0x3e5
+name = "CNetworkGameServerBase_BroadcastMessage"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_BroadcastMessage"
+addr = 0xaff70
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.285315Z
+addr = 0x1f3f60
+size = 0x334
+name = "CSplitScreenService_LoadUserConfiguration"
+type = "void"
+
+[header]
+name = "CSplitScreenService_LoadUserConfiguration"
+addr = 0x1f3f60
+type = "void"
+
+[header.args]

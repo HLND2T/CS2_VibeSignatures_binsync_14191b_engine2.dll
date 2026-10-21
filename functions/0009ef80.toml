@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:11.776236Z
+addr = 0x9ef80
+size = 0x58f
+name = "CNetworkGameServer_SpawnServer"
+type = "char"
+
+[header]
+name = "CNetworkGameServer_SpawnServer"
+addr = 0x9ef80
+type = "char"
+
+[header.args]

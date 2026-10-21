@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026745Z
+addr = 0x69960
+size = 0x2e8
+name = "CNetworkGameClient_ProcessPacketEntities"
+type = "char"
+
+[header]
+name = "CNetworkGameClient_ProcessPacketEntities"
+addr = 0x69960
+type = "char"
+
+[header.args]

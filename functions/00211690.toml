@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.385276Z
+addr = 0x211690
+size = 0x2a0
+name = "CEngineServiceMgr_DeactivateLoop"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_DeactivateLoop"
+addr = 0x211690
+type = "long long"
+
+[header.args]

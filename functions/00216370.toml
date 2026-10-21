@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.450236Z
+addr = 0x216370
+size = 0xe6
+name = "CGameEventSystem_UnregisterGameEventHandlerAbstract"
+type = "void"
+
+[header]
+name = "CGameEventSystem_UnregisterGameEventHandlerAbstract"
+addr = 0x216370
+type = "void"
+
+[header.args]

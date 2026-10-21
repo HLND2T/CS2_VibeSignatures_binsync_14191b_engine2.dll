@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026786Z
+addr = 0x81da0
+size = 0x8e6
+name = "CNetworkGameClientBase_ProcessSpawnGroup_Load"
+type = "char"
+
+[header]
+name = "CNetworkGameClientBase_ProcessSpawnGroup_Load"
+addr = 0x81da0
+type = "char"
+
+[header.args]

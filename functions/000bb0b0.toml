@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026948Z
+addr = 0xbb0b0
+size = 0x1bd
+name = "CServerSideClient_ctor"
+type = "long long"
+
+[header]
+name = "CServerSideClient_ctor"
+addr = 0xbb0b0
+type = "long long"
+
+[header.args]

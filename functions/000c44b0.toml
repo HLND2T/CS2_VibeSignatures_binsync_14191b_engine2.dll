@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026998Z
+addr = 0xc44b0
+size = 0x1cc
+name = "CServerSideClientBase_Reactivate"
+type = "void"
+
+[header]
+name = "CServerSideClientBase_Reactivate"
+addr = 0xc44b0
+type = "void"
+
+[header.args]

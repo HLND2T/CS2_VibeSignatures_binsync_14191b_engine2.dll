@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027160Z
+addr = 0x1d7060
+size = 0x1e5
+name = "CNetworkClientService_ServerCmd"
+type = "void"
+
+[header]
+name = "CNetworkClientService_ServerCmd"
+addr = 0x1d7060
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026969Z
+addr = 0xc2a40
+size = 0x2c9
+name = "CServerSideClientBase_ClientPrintf"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_ClientPrintf"
+addr = 0xc2a40
+type = "char"
+
+[header.args]

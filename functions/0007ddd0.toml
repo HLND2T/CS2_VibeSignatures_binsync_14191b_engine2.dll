@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026777Z
+addr = 0x7ddd0
+size = 0x177
+name = "CNetworkGameClientBase_Connect"
+type = "void"
+
+[header]
+name = "CNetworkGameClientBase_Connect"
+addr = 0x7ddd0
+type = "void"
+
+[header.args]

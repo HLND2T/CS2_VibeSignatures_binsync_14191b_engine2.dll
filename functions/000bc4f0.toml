@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026952Z
+addr = 0xbc4f0
+size = 0xbb
+name = "CServerSideClient_IsHearingClient"
+type = "unsigned char"
+
+[header]
+name = "CServerSideClient_IsHearingClient"
+addr = 0xbc4f0
+type = "unsigned char"
+
+[header.args]

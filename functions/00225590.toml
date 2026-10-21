@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.667108Z
+addr = 0x225590
+size = 0x14f
+name = "CLoopTypeClientServer_ActivateLoop"
+type = "long long"
+
+[header]
+name = "CLoopTypeClientServer_ActivateLoop"
+addr = 0x225590
+type = "long long"
+
+[header.args]

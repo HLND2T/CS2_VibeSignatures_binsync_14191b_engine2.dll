@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027171Z
+addr = 0x1d7a90
+size = 0x31
+name = "CNetworkClientService_StartChangeLevel"
+type = "void"
+
+[header]
+name = "CNetworkClientService_StartChangeLevel"
+addr = 0x1d7a90
+type = "void"
+
+[header.args]

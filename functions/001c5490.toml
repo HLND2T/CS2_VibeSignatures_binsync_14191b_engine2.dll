@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027109Z
+addr = 0x1c5490
+size = 0x492
+name = "CInputService_ProcessCommandBuffers"
+type = "long long"
+
+[header]
+name = "CInputService_ProcessCommandBuffers"
+addr = 0x1c5490
+type = "long long"
+
+[header.args]

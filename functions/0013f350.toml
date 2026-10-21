@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.690123Z
+addr = 0x13f350
+size = 0x108
+name = "CLoopModeLevelLoad_LoopInit"
+type = "char"
+
+[header]
+name = "CLoopModeLevelLoad_LoopInit"
+addr = 0x13f350
+type = "char"
+
+[header.args]

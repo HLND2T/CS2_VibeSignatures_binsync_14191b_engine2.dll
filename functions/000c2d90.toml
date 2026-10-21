@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026970Z
+addr = 0xc2d90
+size = 0x108
+name = "CServerSideClientBase_SendNetMessage"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_SendNetMessage"
+addr = 0xc2d90
+type = "char"
+
+[header.args]

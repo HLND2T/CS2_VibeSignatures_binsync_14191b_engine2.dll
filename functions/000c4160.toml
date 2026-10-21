@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026996Z
+addr = 0xc4160
+size = 0x333
+name = "CServerSideClientBase_Inactivate"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_Inactivate"
+addr = 0xc4160
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026912Z
+addr = 0xb2370
+size = 0x7
+name = "CNetworkGameServerBase_GetMaxClients"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_GetMaxClients"
+addr = 0xb2370
+type = "long long"
+
+[header.args]

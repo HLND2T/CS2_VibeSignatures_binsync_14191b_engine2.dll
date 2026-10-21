@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026918Z
+addr = 0xb3bb0
+size = 0x13d
+name = "CNetworkGameServerBase_KickClient"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_KickClient"
+addr = 0xb3bb0
+type = "void"
+
+[header.args]

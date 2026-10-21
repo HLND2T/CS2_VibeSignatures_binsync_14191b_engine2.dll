@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027157Z
+addr = 0x1d6fd0
+size = 0x18
+name = "CNetworkClientService_IsConnected"
+type = "char"
+
+[header]
+name = "CNetworkClientService_IsConnected"
+addr = 0x1d6fd0
+type = "char"
+
+[header.args]

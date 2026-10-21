@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:11.388657Z
+addr = 0x5c770
+size = 0x489
+name = "CNetworkClientSpawnGroupCreatePrerequisites_GetStatus"
+type = "long long"
+
+[header]
+name = "CNetworkClientSpawnGroupCreatePrerequisites_GetStatus"
+addr = 0x5c770
+type = "long long"
+
+[header.args]

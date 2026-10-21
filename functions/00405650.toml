@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.732368Z
+addr = 0x405650
+size = 0x23
+name = "ConCommandRef_Dispatch"
+type = "long long"
+
+[header]
+name = "ConCommandRef_Dispatch"
+addr = 0x405650
+type = "long long"
+
+[header.args]

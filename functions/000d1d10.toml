@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.559239Z
+addr = 0xd1d10
+size = 0x840
+name = "CNetworkGameServerBase_WriteDeltaEntities_WriteNonTransmitted"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_WriteDeltaEntities_WriteNonTransmitted"
+addr = 0xd1d10
+type = "long long"
+
+[header.args]

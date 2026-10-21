@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026750Z
+addr = 0x6d530
+size = 0x7b
+name = "CL_NET_PrintSummary_CommandHandler"
+type = "long long"
+
+[header]
+name = "CL_NET_PrintSummary_CommandHandler"
+addr = 0x6d530
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027260Z
+addr = 0x215558
+size = 0x9
+name = "CEngineServiceMgr_RegisterPrerequisite"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_RegisterPrerequisite"
+addr = 0x215558
+type = "long long"
+
+[header.args]

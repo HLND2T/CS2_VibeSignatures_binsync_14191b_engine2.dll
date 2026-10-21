@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026719Z
+addr = 0x5fbc0
+size = 0x86
+name = "Callback_GenericChanged"
+type = "void"
+
+[header]
+name = "Callback_GenericChanged"
+addr = 0x5fbc0
+type = "void"
+
+[header.args]

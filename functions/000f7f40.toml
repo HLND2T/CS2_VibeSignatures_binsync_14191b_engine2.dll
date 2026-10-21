@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.591447Z
+addr = 0xf7f40
+size = 0x48a
+name = "CSteam3ServerS1_InitGameServer"
+type = "long long"
+
+[header]
+name = "CSteam3ServerS1_InitGameServer"
+addr = 0xf7f40
+type = "long long"
+
+[header.args]

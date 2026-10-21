@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.492431Z
+addr = 0x21a8c0
+size = 0xb2
+name = "CHostStateMgr_RequestHS_Quit"
+type = "long long"
+
+[header]
+name = "CHostStateMgr_RequestHS_Quit"
+addr = 0x21a8c0
+type = "long long"
+
+[header.args]

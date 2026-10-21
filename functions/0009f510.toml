@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026824Z
+addr = 0x9f510
+size = 0x87
+name = "CNetworkGameServer_PreWorldUpdate"
+type = "long long"
+
+[header]
+name = "CNetworkGameServer_PreWorldUpdate"
+addr = 0x9f510
+type = "long long"
+
+[header.args]

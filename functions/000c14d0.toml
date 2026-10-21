@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026964Z
+addr = 0xc14d0
+size = 0x161
+name = "CTSQueue_Push"
+type = "long long"
+
+[header]
+name = "CTSQueue_Push"
+addr = 0xc14d0
+type = "long long"
+
+[header.args]

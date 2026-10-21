@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.591601Z
+addr = 0xf83d0
+size = 0x192
+name = "CSteam3ServerS1_ShutdownGameServer"
+type = "unsigned long long *"
+
+[header]
+name = "CSteam3ServerS1_ShutdownGameServer"
+addr = 0xf83d0
+type = "unsigned long long *"
+
+[header.args]

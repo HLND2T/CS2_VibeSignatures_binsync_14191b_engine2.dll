@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.111058Z
+addr = 0x1dc6b0
+size = 0x28e
+name = "CNetworkP2PService_UpdatePeerConnectionStatus"
+type = "void"
+
+[header]
+name = "CNetworkP2PService_UpdatePeerConnectionStatus"
+addr = 0x1dc6b0
+type = "void"
+
+[header.args]

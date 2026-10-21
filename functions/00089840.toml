@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026802Z
+addr = 0x89840
+size = 0x17
+name = "CNetworkGameClientBase_SendStringCmd2"
+type = "long long"
+
+[header]
+name = "CNetworkGameClientBase_SendStringCmd2"
+addr = 0x89840
+type = "long long"
+
+[header.args]

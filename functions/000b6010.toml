@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026940Z
+addr = 0xb6010
+size = 0x27
+name = "CNetworkGameServerBase_GetClientConnectionType"
+type = "char"
+
+[header]
+name = "CNetworkGameServerBase_GetClientConnectionType"
+addr = 0xb6010
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026768Z
+addr = 0x74e90
+size = 0x11
+name = "CEngineClient_FindOrCreateWorldSession"
+type = "long long"
+
+[header]
+name = "CEngineClient_FindOrCreateWorldSession"
+addr = 0x74e90
+type = "long long"
+
+[header.args]

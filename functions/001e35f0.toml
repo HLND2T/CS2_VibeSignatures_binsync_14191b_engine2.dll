@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027219Z
+addr = 0x1e35f0
+size = 0x93
+name = "CNetworkServerService_OnKickByIdHLTV"
+type = "void"
+
+[header]
+name = "CNetworkServerService_OnKickByIdHLTV"
+addr = 0x1e35f0
+type = "void"
+
+[header.args]

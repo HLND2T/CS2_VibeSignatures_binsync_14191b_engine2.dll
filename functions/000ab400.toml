@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.033491Z
+addr = 0xab400
+size = 0x488
+name = "CNetworkGameServerBase_ReplyChallenge"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_ReplyChallenge"
+addr = 0xab400
+type = "long long"
+
+[header.args]

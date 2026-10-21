@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:11.367639Z
+addr = 0x5a670
+size = 0xaf
+name = "CNetworkClientSpawnGroup_dtor"
+type = "long long"
+
+[header]
+name = "CNetworkClientSpawnGroup_dtor"
+addr = 0x5a670
+type = "long long"
+
+[header.args]

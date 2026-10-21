@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027025Z
+addr = 0xc9120
+size = 0x193
+name = "CServerSideClientBase_ShouldSendMessages"
+type = "bool"
+
+[header]
+name = "CServerSideClientBase_ShouldSendMessages"
+addr = 0xc9120
+type = "bool"
+
+[header.args]

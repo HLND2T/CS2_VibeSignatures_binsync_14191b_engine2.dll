@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027064Z
+addr = 0x10ceb0
+size = 0xe8
+name = "CNetworkStringTableContainer_RemoveAllTables"
+type = "long long"
+
+[header]
+name = "CNetworkStringTableContainer_RemoveAllTables"
+addr = 0x10ceb0
+type = "long long"
+
+[header.args]

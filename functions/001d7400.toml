@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027167Z
+addr = 0x1d7400
+size = 0x2a
+name = "CNetworkClientService_ClockDriftAdjustFrameTime"
+type = "double"
+
+[header]
+name = "CNetworkClientService_ClockDriftAdjustFrameTime"
+addr = 0x1d7400
+type = "double"
+
+[header.args]

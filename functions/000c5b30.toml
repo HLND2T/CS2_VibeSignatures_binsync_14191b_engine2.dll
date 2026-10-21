@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.441006Z
+addr = 0xc5b30
+size = 0xc94
+name = "CServerSideClientBase_SendServerInfo"
+type = "_UNKNOWN **"
+
+[header]
+name = "CServerSideClientBase_SendServerInfo"
+addr = 0xc5b30
+type = "_UNKNOWN **"
+
+[header.args]

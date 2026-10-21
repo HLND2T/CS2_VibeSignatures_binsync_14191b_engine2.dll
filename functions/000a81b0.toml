@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026883Z
+addr = 0xa81b0
+size = 0x46a
+name = "CNetworkGameServerBase_SpawnGroupThink"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_SpawnGroupThink"
+addr = 0xa81b0
+type = "long long"
+
+[header.args]

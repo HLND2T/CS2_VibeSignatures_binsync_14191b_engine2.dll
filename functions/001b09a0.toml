@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027084Z
+addr = 0x1b09a0
+size = 0x72
+name = "CGameResourceService_AllocGameResourceManifest"
+type = "long long"
+
+[header]
+name = "CGameResourceService_AllocGameResourceManifest"
+addr = 0x1b09a0
+type = "long long"
+
+[header.args]

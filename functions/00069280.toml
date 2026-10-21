@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026741Z
+addr = 0x69280
+size = 0x16b
+name = "CNetworkGameClient_ProcessServerInfo"
+type = "char"
+
+[header]
+name = "CNetworkGameClient_ProcessServerInfo"
+addr = 0x69280
+type = "char"
+
+[header.args]

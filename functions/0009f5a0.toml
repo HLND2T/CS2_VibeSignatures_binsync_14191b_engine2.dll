@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026826Z
+addr = 0x9f5a0
+size = 0x19b
+name = "CNetworkGameServer_DirectUpdate"
+type = "long long"
+
+[header]
+name = "CNetworkGameServer_DirectUpdate"
+addr = 0x9f5a0
+type = "long long"
+
+[header.args]

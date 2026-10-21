@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027287Z
+addr = 0x21b520
+size = 0x115
+name = "CHostStateMgr_RequestHS_LoadSpawnGroup"
+type = "long long"
+
+[header]
+name = "CHostStateMgr_RequestHS_LoadSpawnGroup"
+addr = 0x21b520
+type = "long long"
+
+[header.args]

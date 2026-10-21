@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026868Z
+addr = 0xa1e50
+size = 0x49
+name = "CEngineServer_IsClientLowViolence"
+type = "bool"
+
+[header]
+name = "CEngineServer_IsClientLowViolence"
+addr = 0xa1e50
+type = "bool"
+
+[header.args]

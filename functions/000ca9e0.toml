@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.539565Z
+addr = 0xca9e0
+size = 0xa0
+name = "CServerSideClientBase_GetPlayerInfo"
+type = "unsigned int *"
+
+[header]
+name = "CServerSideClientBase_GetPlayerInfo"
+addr = 0xca9e0
+type = "unsigned int *"
+
+[header.args]

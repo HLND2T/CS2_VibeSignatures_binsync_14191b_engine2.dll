@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027277Z
+addr = 0x21ae80
+size = 0x216
+name = "CHostStateMgr_RequestHS_DownloadAddons"
+type = "long long"
+
+[header]
+name = "CHostStateMgr_RequestHS_DownloadAddons"
+addr = 0x21ae80
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027097Z
+addr = 0x1b19d0
+size = 0x23d
+name = "CGameResourceService_BuildCompressedManifest"
+type = "void"
+
+[header]
+name = "CGameResourceService_BuildCompressedManifest"
+addr = 0x1b19d0
+type = "void"
+
+[header.args]

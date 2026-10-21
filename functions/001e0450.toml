@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027184Z
+addr = 0x1e0450
+size = 0x160
+name = "CNetworkServerService_AddServerPrerequisites"
+type = "void"
+
+[header]
+name = "CNetworkServerService_AddServerPrerequisites"
+addr = 0x1e0450
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026658Z
+addr = 0x4b130
+size = 0x1bf
+name = "CConVarRef_Int_Set"
+type = "void"
+
+[header]
+name = "CConVarRef_Int_Set"
+addr = 0x4b130
+type = "void"
+
+[header.args]

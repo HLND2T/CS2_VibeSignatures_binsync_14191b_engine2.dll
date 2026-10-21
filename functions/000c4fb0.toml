@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027002Z
+addr = 0xc4fb0
+size = 0x275
+name = "CServerSideClientBase_SendSignonData"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_SendSignonData"
+addr = 0xc4fb0
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:11.915000Z
+addr = 0xa1300
+size = 0x4f
+name = "CEngineServer_PrecacheGeneric"
+type = "long long"
+
+[header]
+name = "CEngineServer_PrecacheGeneric"
+addr = 0xa1300
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.182937Z
+addr = 0xb4650
+size = 0x49e
+name = "CNetworkGameServerBase_SV_BroadcastVoiceData"
+type = "char"
+
+[header]
+name = "CNetworkGameServerBase_SV_BroadcastVoiceData"
+addr = 0xb4650
+type = "char"
+
+[header.args]

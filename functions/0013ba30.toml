@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027072Z
+addr = 0x13ba30
+size = 0x6c
+name = "CEngineGameUI_Shutdown"
+type = "long long"
+
+[header]
+name = "CEngineGameUI_Shutdown"
+addr = 0x13ba30
+type = "long long"
+
+[header.args]

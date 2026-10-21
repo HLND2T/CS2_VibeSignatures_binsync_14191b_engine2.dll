@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027115Z
+addr = 0x1ccf00
+size = 0x150
+name = "CMapListService_ParseMapOptions"
+type = "KeyValues *"
+
+[header]
+name = "CMapListService_ParseMapOptions"
+addr = 0x1ccf00
+type = "KeyValues *"
+
+[header.args]

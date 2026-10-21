@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026838Z
+addr = 0xa0660
+size = 0x5
+name = "CEngineServer_IsDedicatedServer"
+type = "long long"
+
+[header]
+name = "CEngineServer_IsDedicatedServer"
+addr = 0xa0660
+type = "long long"
+
+[header.args]

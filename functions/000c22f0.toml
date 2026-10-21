@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.341858Z
+addr = 0xc22f0
+size = 0x45e
+name = "CServerSideClientBase_dtor"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_dtor"
+addr = 0xc22f0
+type = "long long"
+
+[header.args]

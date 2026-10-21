@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.323282Z
+addr = 0x210a80
+size = 0xb6
+name = "CEngineServiceMgr_Shutdown"
+type = "void"
+
+[header]
+name = "CEngineServiceMgr_Shutdown"
+addr = 0x210a80
+type = "void"
+
+[header.args]

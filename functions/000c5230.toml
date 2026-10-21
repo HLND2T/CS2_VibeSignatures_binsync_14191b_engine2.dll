@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027004Z
+addr = 0xc5230
+size = 0x1e6
+name = "CServerSideClientBase_Connect"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_Connect"
+addr = 0xc5230
+type = "long long"
+
+[header.args]

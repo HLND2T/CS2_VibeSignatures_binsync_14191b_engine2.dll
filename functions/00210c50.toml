@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:13.345819Z
+addr = 0x210c50
+size = 0xec
+name = "CEngineServiceMgr_RegisterEngineService"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_RegisterEngineService"
+addr = 0x210c50
+type = "long long"
+
+[header.args]

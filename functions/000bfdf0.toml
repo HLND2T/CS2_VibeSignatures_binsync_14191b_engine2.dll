@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026962Z
+addr = 0xbfdf0
+size = 0x3fc
+name = "CServerSideClient_SendInitialSpawnGroups"
+type = "long long"
+
+[header]
+name = "CServerSideClient_SendInitialSpawnGroups"
+addr = 0xbfdf0
+type = "long long"
+
+[header.args]

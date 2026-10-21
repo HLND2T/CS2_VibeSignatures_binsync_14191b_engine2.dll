@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027238Z
+addr = 0x210d40
+size = 0xc0
+name = "CEngineServiceMgr_UnregisterEngineService"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_UnregisterEngineService"
+addr = 0x210d40
+type = "long long"
+
+[header.args]

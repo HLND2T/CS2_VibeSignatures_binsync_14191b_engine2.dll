@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:41:09.027200Z
+addr = 0x1e1700
+size = 0x5
+name = "CNetworkServerService_OnClientPollNetworking"
+
+[header]
+name = "CNetworkServerService_OnClientPollNetworking"
+addr = 0x1e1700
+
+[header.args]

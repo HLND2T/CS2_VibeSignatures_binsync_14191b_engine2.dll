@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027113Z
+addr = 0x1cb5d0
+size = 0x2a6
+name = "CMapListService_IsMapValid"
+type = "char"
+
+[header]
+name = "CMapListService_IsMapValid"
+addr = 0x1cb5d0
+type = "char"
+
+[header.args]

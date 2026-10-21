@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026726Z
+addr = 0x60270
+size = 0x1ee
+name = "CNetworkGameClient_FullConnect"
+type = "double"
+
+[header]
+name = "CNetworkGameClient_FullConnect"
+addr = 0x60270
+type = "double"
+
+[header.args]

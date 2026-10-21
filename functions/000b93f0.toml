@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026945Z
+addr = 0xb93f0
+size = 0x4f0
+name = "CNetworkServerSpawnGroup_WaitForAssetLoadPrerequisite_GetPrerequisiteStatus"
+type = "long long"
+
+[header]
+name = "CNetworkServerSpawnGroup_WaitForAssetLoadPrerequisite_GetPrerequisiteStatus"
+addr = 0xb93f0
+type = "long long"
+
+[header.args]

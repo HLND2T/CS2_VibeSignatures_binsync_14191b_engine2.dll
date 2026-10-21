@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027284Z
+addr = 0x21b220
+size = 0x18a
+name = "CHostStateMgr_RequestHS_SourceTVRelay"
+type = "long long"
+
+[header]
+name = "CHostStateMgr_RequestHS_SourceTVRelay"
+addr = 0x21b220
+type = "long long"
+
+[header.args]

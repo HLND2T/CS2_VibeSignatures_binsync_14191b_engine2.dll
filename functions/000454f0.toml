@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:11.303967Z
+addr = 0x454f0
+size = 0x50d
+name = "CNetworkGameClient_CopyNewEntity"
+type = "long long"
+
+[header]
+name = "CNetworkGameClient_CopyNewEntity"
+addr = 0x454f0
+type = "long long"
+
+[header.args]

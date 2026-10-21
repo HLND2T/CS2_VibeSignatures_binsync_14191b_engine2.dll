@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:11.367498Z
+addr = 0x56620
+size = 0x2ba
+name = "ConnectSocketToAddressList"
+type = "long long"
+
+[header]
+name = "ConnectSocketToAddressList"
+addr = 0x56620
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026954Z
+addr = 0xbc7a0
+size = 0x76
+name = "CServerSideClient_UpdateAcknowledgedFramecount"
+type = "char"
+
+[header]
+name = "CServerSideClient_UpdateAcknowledgedFramecount"
+addr = 0xbc7a0
+type = "char"
+
+[header.args]

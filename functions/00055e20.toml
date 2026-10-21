@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.026660Z
+addr = 0x55e20
+size = 0x542
+name = "ParseNetadrList"
+type = "bool"
+
+[header]
+name = "ParseNetadrList"
+addr = 0x55e20
+type = "bool"
+
+[header.args]

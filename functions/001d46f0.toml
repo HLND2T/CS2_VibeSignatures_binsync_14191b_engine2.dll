@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:12.905404Z
+addr = 0x1d46f0
+size = 0xee
+name = "CNetworkClientService_OnClientProcessGameInput"
+type = "void"
+
+[header]
+name = "CNetworkClientService_OnClientProcessGameInput"
+addr = 0x1d46f0
+type = "void"
+
+[header.args]

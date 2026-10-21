@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:09.027234Z
+addr = 0x210b40
+size = 0x8
+name = "CEngineServiceMgr_GetEngineWindow"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_GetEngineWindow"
+addr = 0x210b40
+type = "long long"
+
+[header.args]
